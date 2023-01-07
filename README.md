@@ -35,4 +35,8 @@
 <br>📜 Press enter and let the script run.
 <br>💻 After restarting your computer, access the Start Menu and right click to remove any remaining unnecessary programs. Restart the computer again.
 <br>📜 Open Powershell as an Administrator and enter the command: Set-ExecutionPolicy Restricted. Press 'a' and then press enter to confirm.
-<br>📜 Install the drivers by running the installation programs from the drivers folder on the pen drive. For example, you can run the command .\install_amd_drivers.exe to install AMD drivers."
+<br>📜 Install the drivers by running the installation programs from the drivers folder on the pen drive. For example, you can run the command .\install_amd_drivers.exe to install AMD drivers.
+
+# ⚡ Credits: By Elliot The Boss Siddons
+
+
