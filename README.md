@@ -17,7 +17,7 @@
 <br>📜 Type select disk X where X is the number of the drive you want to use.
 <br>💾 Type clean to erase the entire drive.
 <br>📜 Type convert gpt to convert the drive from MBR to GPT partitioning.
-<br>📜 : Enter the following commands in order
+<br>📜 Enter the following commands in order
 <br>create partition efi size=100
 <br>format quick fs=fat32 label="System"
 <br>assign letter="S"
