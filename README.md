@@ -30,4 +30,6 @@
 <br>🖥️ Once installed and at the desktop for the first time, go to the Start Menu and type Powershell. Right click on Powershell and select "Run as Administrator".
 <br>📜 Enter the following into Powershell: Set-ExecutionPolicy Unrestricted. Press a and enter to confirm.
 <br>🗂️ Plug in your USB pen drive if it was removed, and navigate to the drive letter in Powershell (e.g. cd X:\).
-<br>📂 If the decrapifier.ps1 file is on the root of the pen drive, type .\decrapifier.ps1 and press the Tab key to auto-complete the line. If it is not on the root, add the folder names to the path (or move the file to the
+<br>📂 If the decrapifier.ps1 file is on the root of the pen drive, type .\decrapifier.ps1 and press the Tab key to auto-complete the line. If it is not on the root, add the folder names to the path (or move the file to the root for convenience)
+<br>📂Add the following to the end of the line before pressing enter: -ClearStart -Xbox -OneDrive.
+<br>📜Press enter and let the script run.
