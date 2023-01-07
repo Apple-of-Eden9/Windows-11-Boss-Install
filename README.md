@@ -31,5 +31,8 @@
 <br>📜 Enter the following into Powershell: Set-ExecutionPolicy Unrestricted. Press a and enter to confirm.
 <br>🗂️ Plug in your USB pen drive if it was removed, and navigate to the drive letter in Powershell (e.g. cd X:\).
 <br>📂 If the decrapifier.ps1 file is on the root of the pen drive, type .\decrapifier.ps1 and press the Tab key to auto-complete the line. If it is not on the root, add the folder names to the path (or move the file to the root for convenience)
-<br>📂Add the following to the end of the line before pressing enter: -ClearStart -Xbox -OneDrive.
-<br>📜Press enter and let the script run.
+<br>📂 Add the following to the end of the line before pressing enter: -ClearStart -Xbox -OneDrive.
+<br>📜 Press enter and let the script run.
+<br>💻 After restarting your computer, access the Start Menu and right click to remove any remaining unnecessary programs. Restart the computer again.
+<br>📜 Open Powershell as an Administrator and enter the command: Set-ExecutionPolicy Restricted. Press 'a' and then press enter to confirm.
+<br>📜 Install the drivers by running the installation programs from the drivers folder on the pen drive. For example, you can run the command .\install_amd_drivers.exe to install AMD drivers."
